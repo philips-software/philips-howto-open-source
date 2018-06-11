@@ -37,7 +37,7 @@ This could include (but is not limited to):
 + Trade secrets
 + Anything else that would risk our competitive advantage or could harm the Philips Brand
 
-Take a considerate approach and reach out to Legal, Communications, and/or the [Open Source Team](#contact#) for any ambiguous cases.
+Take a considerate approach and reach out to Legal, Communications, and/or the [Open Source Team](#contact) for any ambiguous cases.
 
 Anything that a Philips business or venture does not want to be published as Open Source, must not be published. 
 
