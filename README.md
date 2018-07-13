@@ -81,9 +81,12 @@ The rules below serve as a basic quality assessment.
 <a name="contact"></a>
 ## 5. Contact
 ### Philips Open Source Team
-- [Ralph Holdorp](mailto:ralph.holdorp@philips.com)
-- [Bart Golsteijn](mailto:bart.golsteijn@philips.com)
 - [Marcin Czenko](mailto:marcin.czenko@philips.com)
+- [Bart Golsteijn](mailto:bart.golsteijn@philips.com)
+- [Ralph Holdorp](mailto:ralph.holdorp@philips.com)
+- [Jeroen Knoops](mailto:jeroen.knoops@philips.com)
+- [Arnold Niessen](mailto:arnold.niessen@philips.com)
+- [Niek Palm](mailto:niek.palm@philips.com)
 
 Please contact the Open Source Team if you would like to become a member.
 
