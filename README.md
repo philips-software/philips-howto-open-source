@@ -10,7 +10,6 @@
 1. [Appendix 1: MIT license](#A1)
 1. [Appendix 2: How to honor non-Philips third-party OSS components](#A2)
 1. [Appendix 3: Why you must create a new repo](#A3)
-1. [Appendix 4: Contributing to an existing open source project](#A4)
 
 <a name="purpose"></a>
 ## 1. Purpose
@@ -145,7 +144,3 @@ Notice file for (path)/(other file)
 “You MUST create an entirely new Git repository before pushing the project to GitHub.”
 
 This rule is a trade-off. On the one hand, we lose information when creating a new git repository. On the other hand, keeping a long history in an existing repository is too-high risk; specifics like credentials could be published by mistake. Security comes first.
-
-<a name="A4"></a>
-### Appendix 4: Contributing to an existing open source project
-More information about contributing to an open source project can be found [here](contributing-to-open-source.md).
