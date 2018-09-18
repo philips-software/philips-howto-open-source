@@ -15,7 +15,7 @@
 ## 1. Purpose
 This document has been created by the Philips [Open Source Team](#contact) and describes open sourcing (publishing) a project.
 
-Philips employees: please use the internal version at https://gitlab.ta.philips.com/open-source/howto-open-source, which contains a few internal links.
+Philips employees: please use the [internal version](https://gitlab.ta.philips.com/open-source/howto-open-source), which contains a few internal links.
 
 <a name="considerations"></a>
 ## 2. Key Considerations
