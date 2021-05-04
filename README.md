@@ -10,7 +10,7 @@
 ## 1. Purpose
 This document has been created by the Philips [Open Source Team](#contact) and publicly describes Philips policy on open sourcing (publishing).
 
-Philips employees: please read the [internal version](https://gitlab.ta.philips.com/open-source/howto-open-source), which contains additional instructions and a few internal links.
+Philips employees: please read the [internal version](https://github.com/philips-internal/open-source), which contains additional instructions and a few internal links.
 
 <a name="motivation"></a>
 ## 2. Motivation
