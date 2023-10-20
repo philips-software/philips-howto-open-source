@@ -24,9 +24,11 @@ Unless stated otherwise, Philips contributions are licensed under the [MIT Licen
 
 ## 3. Contact
 Each project lists the maintainer(s) - they are the prime contacts for the project. For any other queries, please contact the Philips Open Source Team:
-- [Marcin Czenko](https://github.com/marcinczenko)
+
 - [Bart Golsteijn](https://github.com/bartgolsteijn/)
-- [Ralph Holdorp](https://github.com/ralphholdorp)
 - [Jeroen Knoops](https://github.com/jeroenknoops)
 - [Arnold Niessen](https://github.com/ArnoldNiessen)
 - [Niek Palm](https://github.com/npalm)
+- [Scott Guymer](https://github.com/scottguymer)
+- [Micah Kesselman](https://github.com/MicahKesselman)
+- [David Terol](https://github.com/dterol23)
